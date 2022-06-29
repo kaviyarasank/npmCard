@@ -1,6 +1,6 @@
 import { Card, CardImg,CardBody } from 'reactstrap';
     import * as React from 'react';
-    import "../App.css";
+    import "./card.css"
   
   const CardComponent = (props) => {
 
